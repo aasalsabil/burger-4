@@ -1,0 +1,130 @@
+
+@media(max-width:575px) and (min-width:320px){
+  
+  .logo{
+      width: 79%;
+  }
+  .top_head {
+    min-height: 100vh;
+  }
+  .good {
+    display: flex;
+    justify-content: center;
+  }
+  button{
+  margin-left: 88%;
+  }
+  .navbar-light .navbar-toggler {
+    border-color: #fff
+  }
+  .banner_burger img{
+    display: inherit;
+  }
+  .banner_burger {
+    position: absolute;
+    width: 25%;
+    left: 49%;
+    bottom: -51%;
+    transform: translate(-49%, 145%);
+  }
+  .french img{
+    display: inherit;
+  }
+ .french {
+    position: absolute;
+    width: 20%;
+    left: 38%;
+    transform: translate(-52%, 4%);
+  }
+ .banner_img img{
+    display: inherit;
+  }
+  .banner_img {
+    position: absolute;
+    width: 20%;
+    left: 81%;
+    transform: translate(-154%, 99%);
+  }
+  .glow img{
+    display: inherit;
+  }
+  .glow {
+    transform: translate(-36%, -15%);
+    width: 43%;
+  }
+  .price {
+    display: inherit;
+  }
+  .price {
+    left: 32%;
+    padding: 5px 5px;
+    transform: translate(1%, 237%);
+  }
+  .dollor {
+    padding: 10px 10px;
+    
+  }
+  .dollor h5 {
+    font-size: 28px;
+  }
+  .dollor h4 {
+    line-height: 50%;
+    letter-spacing: 3px;
+    font-size: 16px;
+  }
+  h1 {
+    text-align: center;
+    margin-top: 10px;
+    font-size: 40px;
+  }
+  h2{
+    text-align: center;
+    font-size: 30px;
+  }
+  .banner-one{
+    width: 100%;
+  }
+  .banner-one img {
+    width: 100%;
+    margin-bottom: 20px;
+  }
+  .burger_img{
+    margin-top: 10px;
+  }  
+  .burger_section h2 {
+    font-size: 37px;
+  }
+  .burger_section p {
+    font-size: 14px;
+  }
+  .btn-order {
+    margin-bottom: 10px;
+}
+  .location{
+    margin-left: 24px;
+  }
+  .mail{
+    margin-left: 24px;
+  }
+  .background{
+    background-image: url(../Image/footer-img.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 85vh;
+  }
+  .copyright i{
+    color: #fff;
+    /*! font-family: 'Bebas Neue', cursive; */
+    margin-top: 20px;
+  }
+  .sm ul {
+    justify-content: center;
+  }
+  .sm ul li i {
+    margin-top: 50px;
+  }
+  .sm ul li {
+    margin-right: 54px;
+}
+}
